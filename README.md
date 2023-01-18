@@ -1,3 +1,3 @@
 # Twitter-Sentiment-Analysis
 
-Decided to do a sentiment analysis after watching the record-breaking @netflix series; Wednesday . I scrapped 75k tweets using snscrape and analyzed the data with other libraries in Python. Visualization was done by Power BI. 
+   This Projrect is a sentiment analysis done on the record breaking Netflix Series, Wednesday. It starred Jenna Ortega, potrayed as a never-smiling teen with psychic abilities among troubled mates. The data was scraped on twitter and analyzed with snscraper and other libraries in  Python. Visualization was done by Power BI maintaining the gothic theme of the series. 
